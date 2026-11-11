@@ -1,0 +1,44 @@
+Bedroom
+You wake up in a dark, abandoned bedroom with a dusty bed and broken furniture scattered 
+across the floor. The windows are sealed shut, and the door is your only way out.
+Something feels terribly wrong. You should look around for anything that might help you escape.
+You can go EAST to enter the hallway.
+#
+
+Hallway
+You step into a narrow, poorly lit hallway where flickering lights cast strange shadows along 
+the walls. The air is cold, and distant noises echo through the building. Several doors
+lead to unknown rooms. Move carefully, and keep an eye out for useful items.You can go WEST to
+return to the bedroom, NORTH to enter the security room, or SOUTH to enter the laboratory.
+#
+
+Security Room
+You enter a security room filled with dusty monitors, surveillance cameras, and old computer 
+equipment. Most of the screens are dead, but one continues to flicker with a strange image.
+A locked door nearby appears to lead deeper into the building. A keycard left behind on 
+the desk might be useful.You can go WEST to return to the hallway 
+or DOWN to enter the locked basement.
+#
+
+Laboratory
+You enter a mysterious laboratory filled with shattered glass, strange chemical containers,
+and abandoned scientific equipment. An unpleasant smell hangs in the air, and several 
+warning signs cover the walls. A sealed chemical sample sits on a nearby table. Whatever
+happened here, it was serious enough to make everyone leave in a hurry.You can go NORTH to 
+return to the hallway or EAST to enter the locked basement.
+#
+
+Locked Basement
+You descend into a cold, damp basement where rusty pipes run along cracked concrete walls.
+The room is filled with old storage boxes and broken machinery. A heavy metal door blocks
+the way forward, secured by a stubborn lock. Somewhere in the basement, a key may be the 
+only thing standing between you and freedom.You can go UP to return to the security room,
+WEST to return to the laboratory, or SOUTH to reach the main exit.
+#
+
+Main Exit
+At last, you reach the main exit. Massive steel doors stand between you and the outside world, and a faint beam of daylight
+shines through a narrow gap. After everything you have encountered, freedom seems within reach.
+Find a way to open the doors and escape before it is too late.Find a way to open the doors and escape before it is too late. You can go
+NORTH to return to the locked basement.
+#
